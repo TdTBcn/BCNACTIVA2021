@@ -2,7 +2,8 @@ Benvinguts al repositori public de BCN ACTIVA 2021
 Linea 2 Segona linia del fitxer
 Linea 3
 Linea 4
-Linea 5
-Linea 6 Sisena linia del fitxer
+Linea 5 cambio victor2
+Linea 6 (os hostio y no me veis)
 Linea 7
 Linea 8
+Linea 6.0 Sisena linia del fitxer (German)
