@@ -15,5 +15,7 @@ Linea 5.1
 Linea 6 Comentari nou
 Linea 6.1 Sisena linia del fitxer (German)
 Linea 6.2 (os hostio y no me veis)
-Linea 7 qwerty
-Linea 8
+Linea 7 victor2 commit1
+Linea 8 victor2 commit2
+Linea 9 victor2 commit3
+Linea 10 victor2 commit
