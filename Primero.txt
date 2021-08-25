@@ -1,6 +1,12 @@
 Benvinguts al repositori public de BCN ACTIVA 2021
-Linea 3 El ingles se enseña mal ')
 Linea 2 Segona linia del fitxer
+Linea 3 Linia del fitxer tercera <-
+Linea 4 Linia del fitxer quarta <-
+Linea 5
+Linea 6 Sisena linia del fitxer
+Linea 7
+Linea 8
+Linia 9
 Linea 4 La segona
 Linea 6 Escrito de prueba de Victor 1
 Linea 6 xxxxxx
